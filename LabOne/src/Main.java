@@ -16,7 +16,7 @@ public class Main {
     private static final String[] COIN_NAMES = {"Hundred-Dollar Note", "Fifty-Dollar Note", "Twenty-Dollar Note", "Ten-Dollar Note","Five-Dollar Note", "One-Dollar Note",
     "Quarter", "Dime", "Nickel", "Penny"};
     private static final String[] COIN_IMAGE_PATHS = {
-            "hundred_note.png", "fifty_note.png", "twenty_note.png", "ten_note.png", "five_note.png",
+            "LabOne/hundred_note.png", "fifty_note.png", "twenty_note.png", "ten_note.png", "five_note.png",
             "one_note.png", "quarter.png", "dime.png", "nickel.png", "penny.png"};
 
     private ImageIcon[] coinImages;
