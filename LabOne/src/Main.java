@@ -76,6 +76,7 @@ public class Main {
             imagePanel.removeAll(); // Clear previous images
 
         // 123
+        //adwwdakad;dawkl;adwk
             for (int i = 0; i < MONEY_VALUES.length; i++) {
                 int count = cents / MONEY_VALUES[i];
                 if (count > 0) {
